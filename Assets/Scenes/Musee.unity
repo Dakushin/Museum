@@ -3026,7 +3026,7 @@ MonoBehaviour:
   - {fileID: 1580221076}
   - {fileID: 892503255}
   - {fileID: 753324116}
-  pictureprefab: {fileID: 2726567622763462156, guid: e18103438ba92ed4eb32678484769495,
+  picturePrefab: {fileID: 2726567622763462156, guid: e18103438ba92ed4eb32678484769495,
     type: 3}
 --- !u!4 &1801309508
 Transform:

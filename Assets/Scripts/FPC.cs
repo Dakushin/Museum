@@ -6,10 +6,15 @@ using UnityEngine;
 
 public class FPC : MonoBehaviour
 {
-    public float walkingSpeed = 7.5f;
-    public Camera playerCamera;
-    public float lookSpeed = 2.0f;
-    public float lookXLimit = 45.0f;
+    //Private Variables 
+    [SerializeField]
+    private float walkingSpeed = 7.5f;
+    [SerializeField]
+    private Camera playerCamera;
+    [SerializeField]
+    private float lookSpeed = 2.0f;
+    [SerializeField]
+    private float lookXLimit = 45.0f;
 
     CharacterController characterController;
     Vector3 moveDirection = Vector3.zero;

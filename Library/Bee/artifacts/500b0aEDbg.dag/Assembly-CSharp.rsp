@@ -348,7 +348,7 @@
 "Assets/Scripts/FPC.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/JSONClass.cs"
-"Assets/Scripts/PictureControler.cs"
+"Assets/Scripts/PictureController.cs"
 "Assets/Scripts/WallController.cs"
 -langversion:9.0
 

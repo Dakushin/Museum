@@ -58,9 +58,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\JSONClass.cs" />
-    <Compile Include="Assets\Scripts\PictureControler.cs" />
-    <Compile Include="Assets\Scripts\WallController.cs" />
     <Compile Include="Assets\Scripts\FPC.cs" />
+    <Compile Include="Assets\Scripts\PictureController.cs" />
+    <Compile Include="Assets\Scripts\WallController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
