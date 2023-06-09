@@ -2092,12 +2092,12 @@ GameObject:
   - component: {fileID: 1471053704}
   - component: {fileID: 1471053708}
   m_Layer: 0
-  m_Name: sol
+  m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!65 &1471053704
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2272,7 +2272,7 @@ GameObject:
   - component: {fileID: 1526751889}
   - component: {fileID: 1526751888}
   m_Layer: 0
-  m_Name: player
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8289,7 +8289,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5006512736170679350}
   m_Layer: 0
-  m_Name: "mus\xE9e"
+  m_Name: Museum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
